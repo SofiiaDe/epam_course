@@ -22,4 +22,8 @@ Fortuna Favet Fortibus!
 Hold on to all that's dear to you
 As the last sled to Dawson finally arrives
 
+<<<<<<< Updated upstream
 content to be saved
+=======
+content to be saved
+>>>>>>> Stashed changes
